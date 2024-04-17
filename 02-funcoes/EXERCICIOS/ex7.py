@@ -61,7 +61,7 @@ def chute():
                     j += 1
         exibe_as_letras()
     else:
-        print('Essa letra não está na palavra! Tente novamente.')
+        print('Essa letra não está na palavra! Tente novamente')
         chute()
            
 gerencia_palavra()
